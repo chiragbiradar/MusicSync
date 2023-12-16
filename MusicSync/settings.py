@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-w%m*rd2t*!-j!f7ctvn#r&z*2m(6wf@1z37kpm45olot3=0xgk
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['8000-chiragbiradar-musicsync-mqg5s6ej3r3.ws-us107.gitpod.io', '.vercel.app']
 
 
 # Application definition
